@@ -1,3 +1,3 @@
-# Belajar Spring Framework
+# Learn Spring Framework
 
-## Menggunakan Thymeleaf dan Java Class Configuration
+## Using Thymeleaf Templating Engine dan Java Class Configuration
